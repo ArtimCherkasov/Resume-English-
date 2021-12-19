@@ -39,7 +39,7 @@ I have a driver's license of category В🚗, А🏍.<br/>
 ## Personal qualities: ##
 Analytical mindset, learning ability, ability to make non-standard decisions, efficiency, purposefulness, stress resistance, high degree of responsibility, sociability, business ethics, diligence, ability to work in a team, discipline, accuracy. I lead a healthy lifestyle.
 ## Xobby: 
-Outdoor activities: fishing🎣, hunting🔫, tourism⛺️, here you can find a little more about me**[Я и моя жизнь]()**.
+Outdoor activities: fishing🎣, hunting🔫, tourism⛺️, here you can find a little more about me**[Я и моя жизнь](https://github.com/ArtimCherkasov/Me-and-my-life)**.
 ## My works:
 [Игра тетрис](https://github.com/ArtimCherkasov/Project-Tetris)<br>
 [Генератор паролей](https://github.com/ArtimCherkasov/Password-Generator)
